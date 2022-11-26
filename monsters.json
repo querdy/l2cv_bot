@@ -1,0 +1,2315 @@
+{
+  "Gremlin": {
+    "level": 1
+  },
+  "Rabbit": {
+    "level": 1
+  },
+  "Young Fox": {
+    "level": 1
+  },
+  "Gremlin Scavenger": {
+    "level": 1
+  },
+  "Young Brown Fox": {
+    "level": 1
+  },
+  "Young Red Fox": {
+    "level": 1
+  },
+  "Young Crimson Fox": {
+    "level": 1
+  },
+  "Elpy": {
+    "level": 1
+  },
+  "Bearded Keltir": {
+    "level": 1
+  },
+  "Young Brown Keltir": {
+    "level": 1
+  },
+  "Young Red Keltir": {
+    "level": 1
+  },
+  "Young Prarie Keltir": {
+    "level": 1
+  },
+  "Young Keltir": {
+    "level": 1
+  },
+  "Fox": {
+    "level": 2
+  },
+  "Brown Fox": {
+    "level": 2
+  },
+  "Longtail Fox": {
+    "level": 2
+  },
+  "Red Fox": {
+    "level": 2
+  },
+  "Prarie Fox": {
+    "level": 2
+  },
+  "Brown Keltir": {
+    "level": 2
+  },
+  "Longtail Keltir": {
+    "level": 2
+  },
+  "Red Keltir": {
+    "level": 2
+  },
+  "Prarie Keltir": {
+    "level": 2
+  },
+  "Elder Fox": {
+    "level": 3
+  },
+  "Elder Brown Fox": {
+    "level": 3
+  },
+  "Elder Longtail Fox": {
+    "level": 3
+  },
+  "Elder Red Fox": {
+    "level": 3
+  },
+  "Elder Prarie Fox": {
+    "level": 3
+  },
+  "Elder Brown Keltir": {
+    "level": 3
+  },
+  "Elder Red Keltir": {
+    "level": 3
+  },
+  "Elder Prarie Keltir": {
+    "level": 3
+  },
+  "Elder Longtail Keltir": {
+    "level": 3
+  },
+  "Elder Keltir": {
+    "level": 3
+  },
+  "Wolf": {
+    "level": 4
+  },
+  "Kobold": {
+    "level": 4
+  },
+  "Black Wolf": {
+    "level": 4
+  },
+  "Ashen Wolf": {
+    "level": 4
+  },
+  "Kasha Wolf": {
+    "level": 4
+  },
+  "Gray Wolf": {
+    "level": 4
+  },
+  "White Wolf": {
+    "level": 4
+  },
+  "Goblin": {
+    "level": 5
+  },
+  "Giant Toad": {
+    "level": 5
+  },
+  "Goblin Grave Robber": {
+    "level": 5
+  },
+  "Goblin Raider": {
+    "level": 5
+  },
+  "Goblin Snooper": {
+    "level": 5
+  },
+  "Elder Wolf": {
+    "level": 5
+  },
+  "Imp": {
+    "level": 6
+  },
+  "Orc": {
+    "level": 6
+  },
+  "Zombie": {
+    "level": 6
+  },
+  "Rakeclaw Imp": {
+    "level": 6
+  },
+  "Black Timber Wolf": {
+    "level": 6
+  },
+  "Utuku Orc": {
+    "level": 6
+  },
+  "Kaboo Orc": {
+    "level": 6
+  },
+  "Kasha Timber Wolf": {
+    "level": 6
+  },
+  "Imp Elder": {
+    "level": 7
+  },
+  "Orc Grunt": {
+    "level": 7
+  },
+  "Rakeclaw Imp Hunter": {
+    "level": 7
+  },
+  "Varikan Brigand": {
+    "level": 7
+  },
+  "Uthanka Pirate": {
+    "level": 7
+  },
+  "Utuku Orc Grunt": {
+    "level": 7
+  },
+  "Kaboo Orc Grunt": {
+    "level": 7
+  },
+  "Grey Wolf Elder": {
+    "level": 7
+  },
+  "Orc Archer": {
+    "level": 8
+  },
+  "Walking Fungus": {
+    "level": 8
+  },
+  "Goblin Brigand": {
+    "level": 8
+  },
+  "Goblin Scout": {
+    "level": 8
+  },
+  "Goblin Lookout": {
+    "level": 8
+  },
+  "Green Dryad": {
+    "level": 8
+  },
+  "Mountain Fungus": {
+    "level": 8
+  },
+  "Balor Orc Archer": {
+    "level": 8
+  },
+  "Utuku Orc Archer": {
+    "level": 8
+  },
+  "Kaboo Orc Archer": {
+    "level": 8
+  },
+  "Green Fungus": {
+    "level": 9
+  },
+  "Werewolf": {
+    "level": 9
+  },
+  "Garum Werewolf": {
+    "level": 9
+  },
+  "Maraku Werewolf": {
+    "level": 9
+  },
+  "Vrykolakas Wolfkin": {
+    "level": 9
+  },
+  "Relic Werewolf": {
+    "level": 9
+  },
+  "Spore Fungus": {
+    "level": 9
+  },
+  "Monster Eye": {
+    "level": 10
+  },
+  "Orc Fighter": {
+    "level": 10
+  },
+  "Orc Marksman": {
+    "level": 10
+  },
+  "Vampire Bat": {
+    "level": 10
+  },
+  "Sylph": {
+    "level": 10
+  },
+  "Rakeclaw Imp Chieftain": {
+    "level": 10
+  },
+  "Goblin Thief": {
+    "level": 10
+  },
+  "Goblin Brigand Lieutenant": {
+    "level": 10
+  },
+  "Monster Eye Tracker": {
+    "level": 10
+  },
+  "Werewolf Hunter": {
+    "level": 10
+  },
+  "Tunath Orc Marksman": {
+    "level": 10
+  },
+  "Baraq Orc Fighter": {
+    "level": 10
+  },
+  "Varikan Brignad Leader": {
+    "level": 10
+  },
+  "Vaiss Orc": {
+    "level": 10
+  },
+  "Balor Orc Fighter": {
+    "level": 10
+  },
+  "Evil Eye": {
+    "level": 10
+  },
+  "Evil Eye Watcher": {
+    "level": 10
+  },
+  "Kaboo Orc Fighter": {
+    "level": 10
+  },
+  "Blade Bat": {
+    "level": 10
+  },
+  "Pirate Captain Uthanka": {
+    "level": 10
+  },
+  "White Fang": {
+    "level": 10
+  },
+  "Bepook's Pet": {
+    "level": 10
+  },
+  "Orc Lieutenant": {
+    "level": 11
+  },
+  "Drill Bat": {
+    "level": 11
+  },
+  "Magical Weaver": {
+    "level": 11
+  },
+  "Darkwing Bat": {
+    "level": 11
+  },
+  "Mineshaft Bat": {
+    "level": 11
+  },
+  "Baraq Orc Fighter Lieutenant": {
+    "level": 11
+  },
+  "Vaiss Orc Lieutenant": {
+    "level": 11
+  },
+  "Balor Orc Lieutenant": {
+    "level": 11
+  },
+  "Kaboo Orc Fighter Lieutenant": {
+    "level": 11
+  },
+  "Orc Fighter Leader": {
+    "level": 12
+  },
+  "Skeleton": {
+    "level": 12
+  },
+  "Grizzly": {
+    "level": 12
+  },
+  "Goblin Tomb Raider Leader": {
+    "level": 12
+  },
+  "Slave Skeleton": {
+    "level": 12
+  },
+  "Werewolf Chieftain": {
+    "level": 12
+  },
+  "Tunath Orc Warrior": {
+    "level": 12
+  },
+  "Barbed Bat": {
+    "level": 12
+  },
+  "Balor Orc Fighter Leader": {
+    "level": 12
+  },
+  "Blood Fungus": {
+    "level": 12
+  },
+  "Akaste Bone Soldier": {
+    "level": 12
+  },
+  "Dungeon Skeleton": {
+    "level": 12
+  },
+  "Kaboo Orc Fighter Leader": {
+    "level": 12
+  },
+  "Puma": {
+    "level": 15
+  },
+  "Skeleton Hunter": {
+    "level": 12
+  },
+  "Gemstone Beast": {
+    "level": 12
+  },
+  "Dryad": {
+    "level": 13
+  },
+  "Marsh Zombie": {
+    "level": 13
+  },
+  "Stone Golem": {
+    "level": 13
+  },
+  "Skeleton Archer": {
+    "level": 13
+  },
+  "Greystone Golem": {
+    "level": 13
+  },
+  "Darkstone Golem": {
+    "level": 13
+  },
+  "Cave Bat": {
+    "level": 13
+  },
+  "Grave Keeper": {
+    "level": 13
+  },
+  "Stone Giant": {
+    "level": 13
+  },
+  "Brae Orc Archer": {
+    "level": 13
+  },
+  "Festering Bat": {
+    "level": 13
+  },
+  "Dungeon Skeleton Archer": {
+    "level": 13
+  },
+  "Skeleton Hunter Archer": {
+    "level": 13
+  },
+  "Goblin Lord": {
+    "level": 13
+  },
+  "Kobold Looter Bepook": {
+    "level": 13
+  },
+  "Felim Lizardman": {
+    "level": 14
+  },
+  "Vuku Orc": {
+    "level": 14
+  },
+  "Carnivorous Fungus": {
+    "level": 14
+  },
+  "Dryad Elder": {
+    "level": 14
+  },
+  "Marsh Zombie Lord": {
+    "level": 14
+  },
+  "Red Bear": {
+    "level": 14
+  },
+  "Misery Skeleton": {
+    "level": 14
+  },
+  "Crasher": {
+    "level": 14
+  },
+  "Skeleton Marksman": {
+    "level": 14
+  },
+  "Orc Champion": {
+    "level": 14
+  },
+  "Goblin Brigand Leader": {
+    "level": 14
+  },
+  "Maraku Werewolf Chieftain": {
+    "level": 14
+  },
+  "Stone Soldier": {
+    "level": 14
+  },
+  "Akaste Bone Archer": {
+    "level": 14
+  },
+  "Evil Eye Patroller": {
+    "level": 14
+  },
+  "Evil Eye Lookout": {
+    "level": 14
+  },
+  "Doom Soldier": {
+    "level": 14
+  },
+  "Dread Soldier": {
+    "level": 14
+  },
+  "Skeleton Sentinel": {
+    "level": 14
+  },
+  "Whinstone Golem": {
+    "level": 14
+  },
+  "Hunter Bear": {
+    "level": 14
+  },
+  "Felim Lizardman Scout": {
+    "level": 15
+  },
+  "Vuku Orc Archer": {
+    "level": 15
+  },
+  "Shadow Beast": {
+    "level": 15
+  },
+  "Lesser Dark Horror": {
+    "level": 15
+  },
+  "Ruin Zombie": {
+    "level": 15
+  },
+  "Langk Lizardman": {
+    "level": 15
+  },
+  "Giant Spider": {
+    "level": 15
+  },
+  "Skeleton Lord": {
+    "level": 15
+  },
+  "Spartoi": {
+    "level": 15
+  },
+  "Cave Spider": {
+    "level": 15
+  },
+  "Mist Terror": {
+    "level": 15
+  },
+  "Redeye Bat": {
+    "level": 15
+  },
+  "Crimson Tarantula": {
+    "level": 15
+  },
+  "Brae Orc Fighter": {
+    "level": 15
+  },
+  "Vrykolakas": {
+    "level": 15
+  },
+  "Scavenger Spider": {
+    "level": 15
+  },
+  "Opal Beast": {
+    "level": 15
+  },
+  "Will-O-Wisp": {
+    "level": 15
+  },
+  "Crimson Spider": {
+    "level": 15
+  },
+  "Dungeon Spider": {
+    "level": 15
+  },
+  "Kasha Spider": {
+    "level": 15
+  },
+  "Kasha Bear": {
+    "level": 15
+  },
+  "Quicksilver Beast": {
+    "level": 15
+  },
+  "Crypt Horror": {
+    "level": 15
+  },
+  "Twink Puma": {
+    "level": 15
+  },
+  "Shield Skeleton": {
+    "level": 15
+  },
+  "Obsidian Golem": {
+    "level": 15
+  },
+  "Gora Werewolf": {
+    "level": 16
+  },
+  "Langk Lizardman Scout": {
+    "level": 16
+  },
+  "Pincher": {
+    "level": 16
+  },
+  "Ruin Zombie Leader": {
+    "level": 16
+  },
+  "Dark Horror": {
+    "level": 16
+  },
+  "Talon Spider": {
+    "level": 16
+  },
+  "Wererat": {
+    "level": 16
+  },
+  "Giant Bee": {
+    "level": 16
+  },
+  "Hook Spider": {
+    "level": 16
+  },
+  "Brown Bear": {
+    "level": 16
+  },
+  "Dark Terror": {
+    "level": 16
+  },
+  "Cave Fang Spider": {
+    "level": 16
+  },
+  "Ratman Spy": {
+    "level": 16
+  },
+  "Stone Guardian": {
+    "level": 16
+  },
+  "Boogle Ratman": {
+    "level": 16
+  },
+  "Red Scavenger Spider": {
+    "level": 16
+  },
+  "Hunter Tarantula": {
+    "level": 16
+  },
+  "Silent Horror": {
+    "level": 16
+  },
+  "Kasha Fang Spider": {
+    "level": 16
+  },
+  "Kuruka Ratman": {
+    "level": 16
+  },
+  "Skeleton Infantryman": {
+    "level": 16
+  },
+  "Felim Lizardman Warrior": {
+    "level": 17
+  },
+  "Vuku Orc Fighter": {
+    "level": 17
+  },
+  "Langk Lizardman Warrior": {
+    "level": 17
+  },
+  "Omen Beast": {
+    "level": 17
+  },
+  "Pinrul": {
+    "level": 17
+  },
+  "Shade Horror": {
+    "level": 17
+  },
+  "Prowler": {
+    "level": 17
+  },
+  "Tracker Skeleton": {
+    "level": 17
+  },
+  "Blade Spider": {
+    "level": 17
+  },
+  "Salamander": {
+    "level": 17
+  },
+  "Undine": {
+    "level": 17
+  },
+  "Wererat Leader": {
+    "level": 17
+  },
+  "Orc Shaman": {
+    "level": 17
+  },
+  "Grizzly Bear": {
+    "level": 17
+  },
+  "Dementia Beast": {
+    "level": 17
+  },
+  "Moonstone Beast": {
+    "level": 17
+  },
+  "Brae Orc Chief": {
+    "level": 17
+  },
+  "Scarlet Salamander": {
+    "level": 17
+  },
+  "Akaste Bone Warlord": {
+    "level": 17
+  },
+  "Oblivion Watcher": {
+    "level": 17
+  },
+  "Cave Blade Spider": {
+    "level": 17
+  },
+  "Pincer Spider": {
+    "level": 17
+  },
+  "Kasha Blade Spider": {
+    "level": 17
+  },
+  "Corpse Candle": {
+    "level": 17
+  },
+  "Kuruka Ratman Hunter": {
+    "level": 17
+  },
+  "Ruin Imp": {
+    "level": 17
+  },
+  "Plunder Tarantula": {
+    "level": 17
+  },
+  "Ore Bat": {
+    "level": 17
+  },
+  "Bugbear Raider": {
+    "level": 17
+  },
+  "Ol Mahum Novice": {
+    "level": 17
+  },
+  "Lirein": {
+    "level": 18
+  },
+  "Mana Seeker": {
+    "level": 18
+  },
+  "Poison Spider": {
+    "level": 18
+  },
+  "Scavenger Wererat": {
+    "level": 18
+  },
+  "Sukar Wererat": {
+    "level": 18
+  },
+  "Tainted Zombie": {
+    "level": 18
+  },
+  "Tracker Skeleton Leader": {
+    "level": 18
+  },
+  "Salamander Elder": {
+    "level": 18
+  },
+  "Undine Elder": {
+    "level": 18
+  },
+  "Ratman Hunter": {
+    "level": 18
+  },
+  "Boogle Ratman Leader": {
+    "level": 18
+  },
+  "Scavenger Bat": {
+    "level": 18
+  },
+  "Scarlet Salamander Elder": {
+    "level": 18
+  },
+  "Crystalline Beast": {
+    "level": 18
+  },
+  "Arachnid Tracker": {
+    "level": 19
+  },
+  "Lirein Elder": {
+    "level": 19
+  },
+  "Skeleton Scout": {
+    "level": 19
+  },
+  "Stink Zombie": {
+    "level": 19
+  },
+  "Sukar Wererat Leader": {
+    "level": 19
+  },
+  "Salamander Noble": {
+    "level": 19
+  },
+  "Undine Noble": {
+    "level": 19
+  },
+  "Lizardman": {
+    "level": 19
+  },
+  "Undead Slave": {
+    "level": 19
+  },
+  "Ratman Warrior": {
+    "level": 19
+  },
+  "Akaste Bone Lord": {
+    "level": 19
+  },
+  "Zombie Soldier": {
+    "level": 19
+  },
+  "Pitchstone Golem": {
+    "level": 19
+  },
+  "Skeleton Longbowman": {
+    "level": 19
+  },
+  "Lesser Succubus": {
+    "level": 20
+  },
+  "Lycanthrope": {
+    "level": 20
+  },
+  "Arachnid Predator": {
+    "level": 20
+  },
+  "Skeleton Bowman": {
+    "level": 20
+  },
+  "Dre Vanul": {
+    "level": 20
+  },
+  "Griffon": {
+    "level": 20
+  },
+  "Dion Grizzly": {
+    "level": 20
+  },
+  "Mandragora Sprout": {
+    "level": 21
+  },
+  "Enku Orc Shaman": {
+    "level": 20
+  },
+  "Virud Lizardman": {
+    "level": 20
+  },
+  "Dre Vanul Tracker": {
+    "level": 20
+  },
+  "Dwarf Ghost": {
+    "level": 20
+  },
+  "Madness Beast": {
+    "level": 20
+  },
+  "Discarded Guardian": {
+    "level": 20
+  },
+  "Akaste Succubus": {
+    "level": 20
+  },
+  "Elf Ghost": {
+    "level": 20
+  },
+  "Human Ghost": {
+    "level": 20
+  },
+  "Ruin Bat": {
+    "level": 20
+  },
+  "Ghost": {
+    "level": 20
+  },
+  "Dark Succubus": {
+    "level": 20
+  },
+  "Holy Artifact": {
+    "level": 20
+  },
+  "Holything": {
+    "level": 20
+  },
+  "Oren Holything": {
+    "level": 20
+  },
+  "Aden Holything": {
+    "level": 20
+  },
+  "Life Control Tower": {
+    "level": 20
+  },
+  "Flame Control Tower": {
+    "level": 20
+  },
+  "Lesser Succubus Turen": {
+    "level": 21
+  },
+  "Ol Mahum Patrol": {
+    "level": 21
+  },
+  "Ruin Spartoi": {
+    "level": 21
+  },
+  "Wandering Eye": {
+    "level": 21
+  },
+  "Dre Vanul Scout": {
+    "level": 21
+  },
+  "Bugbear": {
+    "level": 21
+  },
+  "Hobgoblin": {
+    "level": 21
+  },
+  "Enku Orc Champion": {
+    "level": 21
+  },
+  "Virud Lizardman Scout": {
+    "level": 21
+  },
+  "Ghost Guardian": {
+    "level": 21
+  },
+  "Nightmare Weaver": {
+    "level": 21
+  },
+  "Dre Vanul Beholder": {
+    "level": 21
+  },
+  "Langk Lizardman Lieutenant": {
+    "level": 21
+  },
+  "Merkenis Escort": {
+    "level": 21
+  },
+  "Baranka Escort": {
+    "level": 21
+  },
+  "Akaste Succubus Turen": {
+    "level": 21
+  },
+  "Ol Mahum Recruit": {
+    "level": 21
+  },
+  "Relic Spartoi": {
+    "level": 21
+  },
+  "Kirunak'S Guards": {
+    "level": 21
+  },
+  "Ruin Imp Elder": {
+    "level": 21
+  },
+  "Dre Vanul Disposer": {
+    "level": 22
+  },
+  "Lesser Succubus Tilfo": {
+    "level": 22
+  },
+  "Ol Mahum Guard": {
+    "level": 22
+  },
+  "Hungry Eye": {
+    "level": 22
+  },
+  "Raging Spartoi": {
+    "level": 22
+  },
+  "Ol Mahum Ranger": {
+    "level": 22
+  },
+  "Monster Eye Searcher": {
+    "level": 22
+  },
+  "Virud Lizardman Warrior": {
+    "level": 22
+  },
+  "Dre Vanul Slayer": {
+    "level": 22
+  },
+  "Baranka Guard": {
+    "level": 22
+  },
+  "Akaste Succubus Tilfo": {
+    "level": 22
+  },
+  "Zombie Warrior": {
+    "level": 22
+  },
+  "Freki's Bloodseeker Bat": {
+    "level": 22
+  },
+  "Rampage Golem": {
+    "level": 22
+  },
+  "Mystical Weaver": {
+    "level": 22
+  },
+  "Red Eye Vampire Bat": {
+    "level": 22
+  },
+  "Ol Mahum Straggler": {
+    "level": 23
+  },
+  "Tumran Bugbear": {
+    "level": 23
+  },
+  "Mandragora Sapling": {
+    "level": 23
+  },
+  "Ol Mahum": {
+    "level": 23
+  },
+  "Bloody Bee": {
+    "level": 23
+  },
+  "Virud Lizardman Shaman ": {
+    "level": 23
+  },
+  "Veelan Bugbear": {
+    "level": 23
+  },
+  "Ol Mahum Supplier": {
+    "level": 23
+  },
+  "Ol Mahum Reserve": {
+    "level": 23
+  },
+  "Ol Mahum Deserter": {
+    "level": 23
+  },
+  "Ol Mahum Shooter": {
+    "level": 24
+  },
+  "Tumran Bugbear Warrior": {
+    "level": 24
+  },
+  "Giant Leech": {
+    "level": 24
+  },
+  "Dire Wolf": {
+    "level": 24
+  },
+  "Virud Lizardman Matriarch": {
+    "level": 24
+  },
+  "Langk Lizardman Leader": {
+    "level": 24
+  },
+  "Veelan Bugbear Warrior": {
+    "level": 24
+  },
+  "Yellow Hornet": {
+    "level": 24
+  },
+  "Ol Mahum Officer": {
+    "level": 24
+  },
+  "Turek War Hound": {
+    "level": 24
+  },
+  "Ol Mahum Patrolman": {
+    "level": 25
+  },
+  "Ol Mahum Captain": {
+    "level": 30
+  },
+  "Monster Eye Watcher": {
+    "level": 25
+  },
+  "Crocodile": {
+    "level": 25
+  },
+  "Mandragora Blossom": {
+    "level": 25
+  },
+  "Ol Mahum Archer": {
+    "level": 25
+  },
+  "Kadif Werewolf": {
+    "level": 25
+  },
+  "Giant Mist Leech": {
+    "level": 25
+  },
+  "Monster Eye Gazer": {
+    "level": 25
+  },
+  "Sukar Wererat Warrior": {
+    "level": 25
+  },
+  "Turek Orc Sentinel": {
+    "level": 25
+  },
+  "Betrayer of Urutu Freki": {
+    "level": 25
+  },
+  "Rampage Golem Leader, Talos": {
+    "level": 25
+  },
+  "Howler": {
+    "level": 25
+  },
+  "Monster Eye Destroyer": {
+    "level": 26
+  },
+  "Selu Lizardman Scout": {
+    "level": 26
+  },
+  "Skeleton Royal Guard": {
+    "level": 26
+  },
+  "Specter": {
+    "level": 26
+  },
+  "Ol Mahum Guerilla": {
+    "level": 26
+  },
+  "Gray Ant": {
+    "level": 26
+  },
+  "Sharuk'S Henchmen": {
+    "level": 26
+  },
+  "Ol Mahum General": {
+    "level": 26
+  },
+  "Tiger Hornet": {
+    "level": 26
+  },
+  "Turek Orc Footman": {
+    "level": 26
+  },
+  "Farakelsus Zombie": {
+    "level": 26
+  },
+  "Lesser Basilisk": {
+    "level": 27
+  },
+  "Selu Lizardman Warrior": {
+    "level": 27
+  },
+  "Gargoyle": {
+    "level": 27
+  },
+  "Sorrow Maiden": {
+    "level": 27
+  },
+  "Ol Mahum Raider": {
+    "level": 27
+  },
+  "Horror Mist Ripper": {
+    "level": 27
+  },
+  "Glass Jaguar": {
+    "level": 27
+  },
+  "Abyss Flyer": {
+    "level": 27
+  },
+  "Turek Orc Archer": {
+    "level": 27
+  },
+  "Turek Orc Supplier": {
+    "level": 27
+  },
+  "Skeleton Pikeman": {
+    "level": 27
+  },
+  "Kuran Kobold": {
+    "level": 27
+  },
+  "Lafi Lizardman": {
+    "level": 27
+  },
+  "Talakin Raider": {
+    "level": 27
+  },
+  "Basilisk": {
+    "level": 28
+  },
+  "Ol Mahum Legionnaire": {
+    "level": 28
+  },
+  "Neer Crawler": {
+    "level": 28
+  },
+  "Ol Mahum Marksman": {
+    "level": 28
+  },
+  "Giant Crimson Ant": {
+    "level": 28
+  },
+  "Delu Lizardman": {
+    "level": 28
+  },
+  "Skeleton Axeman": {
+    "level": 28
+  },
+  "Nightmare Flyer": {
+    "level": 28
+  },
+  "Sukar Wererat Chief": {
+    "level": 28
+  },
+  "Tracker Sharuk": {
+    "level": 28
+  },
+  "Turek Orc Skirmisher": {
+    "level": 28
+  },
+  "Kuran Kobold Warrior": {
+    "level": 28
+  },
+  "Lafi Lizardman Scout": {
+    "level": 28
+  },
+  "Talakin Archer": {
+    "level": 28
+  },
+  "Androscorpio": {
+    "level": 29
+  },
+  "Ant Larva": {
+    "level": 29
+  },
+  "Ol Mahum Commander": {
+    "level": 29
+  },
+  "Marsh Stakato": {
+    "level": 29
+  },
+  "Ol Mahum Champion": {
+    "level": 29
+  },
+  "Skeleton Marauder": {
+    "level": 29
+  },
+  "Neer Ghoul Berserker": {
+    "level": 29
+  },
+  "Ol Mahum Sergeant": {
+    "level": 29
+  },
+  "Delu Lizardman Scout": {
+    "level": 29
+  },
+  "Zombie Lord Farakelsus": {
+    "level": 29
+  },
+  "Follower Of Kuroboros": {
+    "level": 29
+  },
+  "Turek Orc Shaman": {
+    "level": 29
+  },
+  "Patin Archer": {
+    "level": 29
+  },
+  "Ritmal Swordsman": {
+    "level": 29
+  },
+  "Roxide Cohort": {
+    "level": 29
+  },
+  "Fire Archer": {
+    "level": 29
+  },
+  "Queen Ant Larva": {
+    "level": 29
+  },
+  "Androscorpio Hunter": {
+    "level": 30
+  },
+  "Whispering Wind": {
+    "level": 30
+  },
+  "Silenos": {
+    "level": 30
+  },
+  "Skeleton Raider": {
+    "level": 30
+  },
+  "Amber Basilisk": {
+    "level": 30
+  },
+  "Stinger Wasp": {
+    "level": 30
+  },
+  "Delu Lizardman Warrior": {
+    "level": 30
+  },
+  "Great White Shark": {
+    "level": 30
+  },
+  "Malex Herald Of Dagoniel": {
+    "level": 30
+  },
+  "Arachnid Hunter": {
+    "level": 30
+  },
+  "Kaysha Herald Of Ikaros": {
+    "level": 30
+  },
+  "Turek Orc Warlord": {
+    "level": 30
+  },
+  "Lakin Salamander": {
+    "level": 30
+  },
+  "Lakin Undine": {
+    "level": 30
+  },
+  "Talakin": {
+    "level": 30
+  },
+  "Ant": {
+    "level": 31
+  },
+  "Ant Captain": {
+    "level": 31
+  },
+  "Strain": {
+    "level": 31
+  },
+  "Marsh Stakato Worker": {
+    "level": 31
+  },
+  "Turak Bugbear": {
+    "level": 31
+  },
+  "Batur Orc": {
+    "level": 31
+  },
+  "Breka Orc": {
+    "level": 31
+  },
+  "Priest Of Kuroboros": {
+    "level": 31
+  },
+  "Sentinel Of Water": {
+    "level": 31
+  },
+  "Wild Desperado Cohort": {
+    "level": 31
+  },
+  "Ant Overseer": {
+    "level": 32
+  },
+  "Harpy": {
+    "level": 32
+  },
+  "King Bugbear": {
+    "level": 32
+  },
+  "Succubus": {
+    "level": 32
+  },
+  "Ghoul": {
+    "level": 32
+  },
+  "Toad Lord": {
+    "level": 32
+  },
+  "Batur Orc Archer": {
+    "level": 32
+  },
+  "Breka Orc Archer": {
+    "level": 32
+  },
+  "Corpse Scavenger": {
+    "level": 32
+  },
+  "Skeleton Knight": {
+    "level": 32
+  },
+  "Dre Vanul Warrior": {
+    "level": 32
+  },
+  "Kanil Succubus": {
+    "level": 32
+  },
+  "Roxide": {
+    "level": 32
+  },
+  "Death Fire": {
+    "level": 32
+  },
+  "Ant Recruit": {
+    "level": 33
+  },
+  "Granite Golem": {
+    "level": 33
+  },
+  "Troll": {
+    "level": 33
+  },
+  "Marsh Stakato Soldier": {
+    "level": 33
+  },
+  "Turak Bugbear Warrior": {
+    "level": 33
+  },
+  "Batur Orc Warrior": {
+    "level": 33
+  },
+  "Breka Orc Warrior": {
+    "level": 33
+  },
+  "Soldier Of Kuroboros": {
+    "level": 33
+  },
+  "Wasteland Basilisk": {
+    "level": 33
+  },
+  "Salamander Rowin": {
+    "level": 33
+  },
+  "Rowin Undine": {
+    "level": 33
+  },
+  "Revenant of The Executed": {
+    "level": 33
+  },
+  "Red Eye Guards": {
+    "level": 33
+  },
+  "Messenger Escort": {
+    "level": 33
+  },
+  "Follower of The Eye": {
+    "level": 33
+  },
+  "Ant Patrol": {
+    "level": 34
+  },
+  "Puncher": {
+    "level": 34
+  },
+  "Medusa": {
+    "level": 34
+  },
+  "Dead Seeker": {
+    "level": 34
+  },
+  "Turmak": {
+    "level": 34
+  },
+  "Marsh Spider": {
+    "level": 34
+  },
+  "Batur Orc Shaman": {
+    "level": 34
+  },
+  "Breka Orc Shaman": {
+    "level": 34
+  },
+  "Turek Orc Elder": {
+    "level": 34
+  },
+  "Ol Mahum Lord": {
+    "level": 34
+  },
+  "Ant Guard": {
+    "level": 35
+  },
+  "Ant Soldier": {
+    "level": 35
+  },
+  "Hangman Tree": {
+    "level": 35
+  },
+  "Two-Headed Giant": {
+    "level": 35
+  },
+  "Wyrm": {
+    "level": 35
+  },
+  "Tyrant": {
+    "level": 35
+  },
+  "Marsh Stakato Drone": {
+    "level": 35
+  },
+  "Batur Orc Overlord": {
+    "level": 35
+  },
+  "Breka Orc Overlord": {
+    "level": 35
+  },
+  "Giant Wasteland Basilisk": {
+    "level": 35
+  },
+  "Patriarch Kuroboros": {
+    "level": 35
+  },
+  "Soul Scavenger": {
+    "level": 35
+  },
+  "Field Stalker": {
+    "level": 35
+  },
+  "Leto Lizardman": {
+    "level": 35
+  },
+  "Squire of Calibus": {
+    "level": 35
+  },
+  "Eye of Beleth": {
+    "level": 35
+  },
+  "Necrosentinel Archer": {
+    "level": 35
+  },
+  "Wild Desperado": {
+    "level": 35
+  },
+  "Bloody Axe Elite": {
+    "level": 35
+  },
+  "Delu Lizardman Shaman": {
+    "level": 35
+  },
+  "Nurse Ant": {
+    "level": 35
+  },
+  "Partisan Soldier": {
+    "level": 35
+  },
+  "Partisan Sorcerer": {
+    "level": 35
+  },
+  "Partisan Archer": {
+    "level": 35
+  },
+  "Partisan Socerer": {
+    "level": 35
+  },
+  "Ant Warrior Captain": {
+    "level": 36
+  },
+  "Tyrant Kingpin": {
+    "level": 36
+  },
+  "Marsh Stakato Queen": {
+    "level": 36
+  },
+  "Guardian Basilisk": {
+    "level": 36
+  },
+  "Leto Lizardman Archer": {
+    "level": 36
+  },
+  "Saber Toothed Tiger": {
+    "level": 36
+  },
+  "Scout of Plain": {
+    "level": 36
+  },
+  "Noble Ant": {
+    "level": 37
+  },
+  "Road Scavenger": {
+    "level": 37
+  },
+  "Leto Lizardman Soldier": {
+    "level": 37
+  },
+  "Nakonda's Slave": {
+    "level": 37
+  },
+  "Crimson Bear": {
+    "level": 37
+  },
+  "Guard Ant": {
+    "level": 37
+  },
+  "Noble Ant Leader": {
+    "level": 38
+  },
+  "Iron Golem": {
+    "level": 38
+  },
+  "Fettered Soul": {
+    "level": 38
+  },
+  "Leto Lizardman Warrior": {
+    "level": 38
+  },
+  "Demon Tempest": {
+    "level": 38
+  },
+  "Nurka's Messenger": {
+    "level": 38
+  },
+  "Marsh Stakato Noble": {
+    "level": 38
+  },
+  "Titan's Creation, Bemos": {
+    "level": 38
+  },
+  "Kylon's Pirate": {
+    "level": 38
+  },
+  "Devastator": {
+    "level": 38
+  },
+  "Warrior of Plain": {
+    "level": 38
+  },
+  "Windsus": {
+    "level": 39
+  },
+  "Leto Lizardman Shaman": {
+    "level": 39
+  },
+  "Skyla's Retainer": {
+    "level": 39
+  },
+  "Liviona": {
+    "level": 39
+  },
+  "Shaman of Plain": {
+    "level": 39
+  },
+  "Ragna Orc Overlord": {
+    "level": 39
+  },
+  "Ragna Orc Seer": {
+    "level": 39
+  },
+  "Royal Guard Ant": {
+    "level": 39
+  },
+  "Hungry Spirit": {
+    "level": 40
+  },
+  "Serpent Slave": {
+    "level": 40
+  },
+  "Porta": {
+    "level": 40
+  },
+  "Zenta Lizardman": {
+    "level": 40
+  },
+  "Grave": {
+    "level": 40
+  },
+  "Death Doll": {
+    "level": 40
+  },
+  "Grandis": {
+    "level": 40
+  },
+  "Giant Fungus": {
+    "level": 40
+  },
+  "Manashen Gargoyle": {
+    "level": 40
+  },
+  "Leto Lizardman Overlord": {
+    "level": 40
+  },
+  "Timak Orc": {
+    "level": 40
+  },
+  "Karul Bugbear": {
+    "level": 40
+  },
+  "Taik Orc": {
+    "level": 40
+  },
+  "Revenant of Sir Calibus": {
+    "level": 40
+  },
+  "Red Eye Leader Trakia": {
+    "level": 40
+  },
+  "Necrosentinel Guard": {
+    "level": 40
+  },
+  "Heltor Silenos": {
+    "level": 40
+  },
+  "Lord of Plain": {
+    "level": 40
+  },
+  "Partisan Healer": {
+    "level": 40
+  },
+  "Partisan Court Guard": {
+    "level": 40
+  },
+  "Ogre": {
+    "level": 41
+  },
+  "Excuro": {
+    "level": 41
+  },
+  "Zenta Lizardman Scout": {
+    "level": 41
+  },
+  "Giant Monstereye": {
+    "level": 41
+  },
+  "Enchanted Monstereye": {
+    "level": 41
+  },
+  "Timak Orc Archer": {
+    "level": 41
+  },
+  "Tamlin Orc": {
+    "level": 41
+  },
+  "Taik Orc Archer": {
+    "level": 41
+  },
+  "Adherent of Antharas, Skyla": {
+    "level": 41
+  },
+  "Centaurus": {
+    "level": 41
+  },
+  "Heltor Silenos Hunter": {
+    "level": 41
+  },
+  "Timak Orc Troop Archer": {
+    "level": 41
+  },
+  "Mordeo": {
+    "level": 42
+  },
+  "Zenta Lizardman Warrior": {
+    "level": 42
+  },
+  "Dire Wyrm": {
+    "level": 42
+  },
+  "Enchanted Stone Golem": {
+    "level": 42
+  },
+  "Timak Orc Soldier": {
+    "level": 42
+  },
+  "Tamlin Orc Archer": {
+    "level": 42
+  },
+  "Taik Orc Warrior": {
+    "level": 42
+  },
+  "Envoy of Antharas, Nakondas": {
+    "level": 42
+  },
+  "Heltor Silenos Warrior": {
+    "level": 42
+  },
+  "Snipe Cohort": {
+    "level": 42
+  },
+  "Minotaur": {
+    "level": 43
+  },
+  "Ricenseo": {
+    "level": 43
+  },
+  "Zenta Lizardman Shaman": {
+    "level": 43
+  },
+  "Sirocco Gargoyle": {
+    "level": 43
+  },
+  "Rotting tree": {
+    "level": 43
+  },
+  "Enchanted Iron Golem": {
+    "level": 43
+  },
+  "Timak Orc Warrior": {
+    "level": 43
+  },
+  "Kronbe Spider": {
+    "level": 43
+  },
+  "Taik Orc Shaman": {
+    "level": 43
+  },
+  "Stakato Queen Zyrnna": {
+    "level": 43
+  },
+  "Titan's Creation, Premo Prime": {
+    "level": 43
+  },
+  "Corsair Captain Kylon": {
+    "level": 43
+  },
+  "Timak Orc Troop Warrior": {
+    "level": 43
+  },
+  "Krator": {
+    "level": 44
+  },
+  "Zenta Lizardman Matriarch": {
+    "level": 44
+  },
+  "Rotting Golem": {
+    "level": 44
+  },
+  "Enchanted Gargoyle": {
+    "level": 44
+  },
+  "Timak Orc Shaman": {
+    "level": 44
+  },
+  "Lakin": {
+    "level": 44
+  },
+  "Taik Orc Captain": {
+    "level": 44
+  },
+  "Heltor Silenos Shaman": {
+    "level": 44
+  },
+  "Snipe": {
+    "level": 44
+  },
+  "Timak Orc Troop Shaman": {
+    "level": 44
+  },
+  "Premo": {
+    "level": 45
+  },
+  "Shackle": {
+    "level": 45
+  },
+  "Gargoyle Lord Sirocco": {
+    "level": 45
+  },
+  "Trisalim Spider": {
+    "level": 45
+  },
+  "Formor": {
+    "level": 45
+  },
+  "Timak Orc Overlord": {
+    "level": 45
+  },
+  "Fline": {
+    "level": 45
+  },
+  "Weird Drake": {
+    "level": 45
+  },
+  "Carinkain": {
+    "level": 45
+  },
+  "Grave Wanderer": {
+    "level": 45
+  },
+  "Vanor Silenos": {
+    "level": 45
+  },
+  "Rinoket's Henchman": {
+    "level": 45
+  },
+  "Dread Panther": {
+    "level": 45
+  },
+  "Heltor Silenos Chieftain": {
+    "level": 45
+  },
+  "Timak Orc Troop Leader": {
+    "level": 45
+  },
+  "Validus": {
+    "level": 46
+  },
+  "Cave Servant": {
+    "level": 46
+  },
+  "Trisalim Tarantula": {
+    "level": 46
+  },
+  "Formor Elder": {
+    "level": 46
+  },
+  "Liele": {
+    "level": 46
+  },
+  "Forrest of Mirror Ghost": {
+    "level": 48
+  },
+  "Archer of Greed": {
+    "level": 46
+  },
+  "Vanor Silenos Grunt": {
+    "level": 46
+  },
+  "Mercenary": {
+    "level": 48
+  },
+  "Giant Wild Hog": {
+    "level": 47
+  },
+  "Dicor": {
+    "level": 47
+  },
+  "Cave Servant Archer": {
+    "level": 47
+  },
+  "Spore Zombie": {
+    "level": 47
+  },
+  "Tarlk Bugbear": {
+    "level": 47
+  },
+  "Valley Treant": {
+    "level": 47
+  },
+  "Hatar Ratman Theif": {
+    "level": 47
+  },
+  "Vanor Silenos Scout": {
+    "level": 47
+  },
+  "Trisalim Escort": {
+    "level": 47
+  },
+  "Dragon Bearer Archer": {
+    "level": 47
+  },
+  "Perum": {
+    "level": 48
+  },
+  "Cave Servant Warrior": {
+    "level": 48
+  },
+  "Tarlk Bugbear Warrior": {
+    "level": 48
+  },
+  "Satyr": {
+    "level": 48
+  },
+  "Hatar Ratman Boss": {
+    "level": 48
+  },
+  "Vanor Silenos Warrior": {
+    "level": 48
+  },
+  "Scavenger Leader, Rinoket": {
+    "level": 48
+  },
+  "Dread Avenger Kraven": {
+    "level": 48
+  },
+  "Handmaiden of Orfen": {
+    "level": 48
+  },
+  "Dark Knight": {
+    "level": 48
+  },
+  "Dragon Bearer Warrior": {
+    "level": 48
+  },
+  "Raikel": {
+    "level": 48
+  },
+  "Riba": {
+    "level": 48
+  },
+  "Torfe": {
+    "level": 49
+  },
+  "Cave Servant Captain": {
+    "level": 49
+  },
+  "Susceptor": {
+    "level": 49
+  },
+  "Tarlk Bugbear High Warrior": {
+    "level": 49
+  },
+  "Unicorn": {
+    "level": 49
+  },
+  "Mirror": {
+    "level": 49
+  },
+  "Hatar Hanishee": {
+    "level": 49
+  },
+  "Vanor Silenos Shaman": {
+    "level": 49
+  },
+  "Dragon Bearer Chief": {
+    "level": 49
+  },
+  "Raikel Leos": {
+    "level": 49
+  },
+  "Riba Iren": {
+    "level": 49
+  },
+  "Suceptor Prime": {
+    "level": 49
+  },
+  "Death Knight": {
+    "level": 50
+  },
+  "Headless Knight": {
+    "level": 50
+  },
+  "Queen Undine": {
+    "level": 50
+  },
+  "Tarlk Basilisk": {
+    "level": 50
+  },
+  "Forest Runner": {
+    "level": 50
+  },
+  "Harit Lizardman": {
+    "level": 50
+  },
+  "Deprive": {
+    "level": 50
+  },
+  "Tairim": {
+    "level": 50
+  },
+  "Vanor Silenos Cheiftain": {
+    "level": 50
+  },
+  "Ketra Orc": {
+    "level": 50
+  },
+  "Dark Lord": {
+    "level": 50
+  },
+  "Royal Cave Servant": {
+    "level": 51
+  },
+  "Elder Tarlk Basilisk": {
+    "level": 51
+  },
+  "Fline Elder": {
+    "level": 51
+  },
+  "Harit Lizardman Grunt": {
+    "level": 51
+  },
+  "Taik Orc Supply": {
+    "level": 51
+  },
+  "Judge of Marsh": {
+    "level": 51
+  },
+  "Ketra Orc Archer": {
+    "level": 51
+  },
+  "Hunter Gargoyle": {
+    "level": 52
+  },
+  "Liele Elder": {
+    "level": 52
+  },
+  "Harit Lizardman Archer": {
+    "level": 52
+  },
+  "Taik Orc Seeker": {
+    "level": 52
+  },
+  "Tulben": {
+    "level": 52
+  },
+  "Ketra Orc Warrior": {
+    "level": 52
+  },
+  "Konzur Bat ": {
+    "level": 52
+  },
+  "Oel Mahum": {
+    "level": 53
+  },
+  "Dustwind Gargoyle": {
+    "level": 53
+  },
+  "Valley treant Elder": {
+    "level": 53
+  },
+  "Harit Lizardman Warrior": {
+    "level": 53
+  },
+  "Farcran": {
+    "level": 53
+  },
+  "Punishment of Undead": {
+    "level": 53
+  },
+  "Ketra Orc Shaman": {
+    "level": 53
+  },
+  "Thunder Wyrm": {
+    "level": 54
+  },
+  "Oel Mahum Warrior": {
+    "level": 54
+  },
+  "Satyr Elder": {
+    "level": 54
+  },
+  "Harit Lizardman Shaman": {
+    "level": 54
+  },
+  "Grave Guard": {
+    "level": 54
+  },
+  "Marsh Stalker": {
+    "level": 54
+  },
+  "Ketra Orc Overload": {
+    "level": 54
+  },
+  "Konzur Bat Lord": {
+    "level": 54
+  },
+  "Malruk Succubus": {
+    "level": 55
+  },
+  "Death Wraith": {
+    "level": 55
+  },
+  "Oel Mahum Witch Doctor": {
+    "level": 55
+  },
+  "Unicorn Elder": {
+    "level": 55
+  },
+  "Harit Lizardman Matriarch": {
+    "level": 55
+  },
+  "Halingka": {
+    "level": 55
+  },
+  "Taik Orc Supply Leader": {
+    "level": 55
+  },
+  "Marsh Drake": {
+    "level": 55
+  },
+  "Gustos Susceptor": {
+    "level": 55
+  },
+  "Timiniel's Escort": {
+    "level": 55
+  },
+  "Bloody Lord Nurka": {
+    "level": 55
+  },
+  "Malruk Succubus Turen": {
+    "level": 56
+  },
+  "Yintzu": {
+    "level": 56
+  },
+  "Guard": {
+    "level": 66
+  },
+  "Drake": {
+    "level": 57
+  },
+  "Paliote": {
+    "level": 57
+  },
+  "Cave Keeper": {
+    "level": 58
+  },
+  "Hamrut": {
+    "level": 58
+  },
+  "Archon Susceptor": {
+    "level": 58
+  },
+  "Court Sorcerer": {
+    "level": 68
+  },
+  "Court Priest": {
+    "level": 68
+  },
+  "Court Guard": {
+    "level": 68
+  },
+  "Cave Maiden": {
+    "level": 59
+  },
+  "Kranrot": {
+    "level": 59
+  },
+  "Gamlin": {
+    "level": 60
+  },
+  "Court Knight": {
+    "level": 70
+  },
+  "Bloody Queen": {
+    "level": 60
+  },
+  "Cave Beast": {
+    "level": 61
+  },
+  "Leogul": {
+    "level": 61
+  },
+  "Lesser Giant": {
+    "level": 61
+  },
+  "Crimson Drake": {
+    "level": 61
+  },
+  "Fairy Queen Timiniel": {
+    "level": 61
+  },
+  "Barif's Pet": {
+    "level": 61
+  },
+  "Death Wave": {
+    "level": 62
+  },
+  "Lesser Giant Soldier": {
+    "level": 62
+  },
+  "Kadios": {
+    "level": 62
+  },
+  "Cronenberg": {
+    "level": 62
+  },
+  "Ivano": {
+    "level": 62
+  },
+  "Ulric": {
+    "level": 62
+  },
+  "Quant": {
+    "level": 62
+  },
+  "Malruk Soldier": {
+    "level": 63
+  },
+  "Lesser Giant Shooter": {
+    "level": 63
+  },
+  "Lesser Giant Scout": {
+    "level": 63
+  },
+  "Trives": {
+    "level": 63
+  },
+  "Cave Servant General": {
+    "level": 63
+  },
+  "Plando": {
+    "level": 64
+  },
+  "Lesser Giant Mage": {
+    "level": 64
+  },
+  "Falibati": {
+    "level": 64
+  },
+  "Barif": {
+    "level": 64
+  },
+  "Cave Howler": {
+    "level": 65
+  },
+  "Lesser Giant Elder": {
+    "level": 65
+  },
+  "Doom Knight": {
+    "level": 65
+  },
+  "Duke Lewin Waldner": {
+    "level": 65
+  },
+  "Duke Byron Ashton": {
+    "level": 65
+  },
+  "Baron Carmon Esthus": {
+    "level": 65
+  },
+  "Duke Balthus Vanik": {
+    "level": 65
+  },
+  "Malruk Knight": {
+    "level": 66
+  },
+  "Cave Servant Lord Ishka": {
+    "level": 66
+  },
+  "Malruk Berserker": {
+    "level": 67
+  },
+  "Malruk Lord": {
+    "level": 68
+  },
+  "Pytan Knight": {
+    "level": 68
+  },
+  "Limal Karinness": {
+    "level": 69
+  },
+  "Pytan": {
+    "level": 69
+  },
+  "Karik": {
+    "level": 70
+  },
+  "Shamus": {
+    "level": 72
+  },
+  "Morpheus": {
+    "level": 72
+  },
+  "Amadeo Cadmus": {
+    "level": 75
+  }
+}
